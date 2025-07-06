@@ -158,10 +158,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Senior Backend Engineer - Real-time data processing](https://jobs.ashbyhq.com/jerry/cb293c7c-72a8-4b5d-a24d-dee7addf3390)** — _n/a_ _(posted 2025-07-01)_
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/2f351dfa-4c5c-437c-98ad-471c1444bd77)** — _n/a_ _(posted 2025-07-01)_
-* **[Senior Backend Engineer - Real-time IoT](https://jobs.ashbyhq.com/jerry/b59c3940-c4d2-4726-bc7e-b2a6a0953ab6)** — _n/a_ _(posted 2025-07-01)_
-* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/900bf7c5-b9c1-48ab-baae-e01c3b834fed)** — _n/a_ _(posted 2025-07-01)_
+* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/f1e9dc65-6977-42ec-a5aa-03f877c6824e)** — _n/a_ _(posted 2025-07-05)_
+* **[Senior Backend Engineer - Real-time IoT](https://jobs.ashbyhq.com/jerry/e454ea35-9b62-4c48-9a49-94f29c66ce1e)** — _n/a_ _(posted 2025-07-05)_
+* **[Senior Backend Engineer - Real-time data processing](https://jobs.ashbyhq.com/jerry/1dd09fce-fa44-4907-a7d8-f04635d3ce05)** — _n/a_ _(posted 2025-07-05)_
+* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/a32f23e6-c56a-41a9-bab1-1af790fefdd5)** — _n/a_ _(posted 2025-07-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
@@ -296,4 +296,4 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-05_
+_Updated automatically — 2025-07-06_
