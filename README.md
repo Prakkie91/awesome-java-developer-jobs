@@ -34,10 +34,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Software Engineer, Mobile](https://jobs.ashbyhq.com/reteam/0038f4aa-8c78-4350-b46d-9a396ab1678e)** — ¤100,000 – ¤175,000 USD _(posted 2025-03-12)_
 * **[Backend Engineer (Remote)](https://jobs.ashbyhq.com/reteam/714121ad-59e8-49b1-ad56-244a89de574c)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
-
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000069187921-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sj6zld7jju9vjg7iybcy.webp" width="24" height="24" alt="BrightAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BrightAI](https://jobo.world/company/BrightAI)
 
 * **[Senior Cloud Engineer](https://job-boards.greenhouse.io/brightai1/jobs/4037342004)** — _n/a_ _(posted 2025-06-14)_
@@ -116,10 +112,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
+* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/flex/jobs/4584212005)** — _n/a_ _(posted 2025-07-09)_
 * **[Staff Software Engineer, Partner Integrations](https://job-boards.greenhouse.io/flex/jobs/4577838005)** — _n/a_ _(posted 2025-06-19)_
 * **[Staff Software Engineer, Risk Engineering](https://job-boards.greenhouse.io/flex/jobs/4576670005)** — _n/a_ _(posted 2025-06-18)_
 * **[Senior Software Engineer, Backend](https://job-boards.greenhouse.io/flex/jobs/4577351005)** — _n/a_ _(posted 2025-06-18)_
-* **[Staff Software Engineer, Growth](https://job-boards.greenhouse.io/flex/jobs/4540719005)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
@@ -137,6 +133,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Manager, Engineering](https://job-boards.greenhouse.io/healthjoy/jobs/8015473002)** — _n/a_ _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xqvnkxt9iurez0ipw8ch.webp" width="24" height="24" alt="HireVue logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HireVue](https://jobo.world/company/HireVue)
+
+* **[Cloud Engineer | Fully Remote USA](https://jobs.smartrecruiters.com/HireVue/744000067284251-cloud-engineer-fully-remote-usa?oga=true)** — _n/a_ _(posted 2025-06-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6932241)** — _n/a_ _(posted 2025-06-05)_
@@ -149,10 +149,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/artohvfq2jh2orgkmv6d.webp" width="24" height="24" alt="Jasper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jasper](https://jobo.world/company/Jasper)
-
-* **[Senior Software Engineer](https://jobs.ashbyhq.com%2Fjasper%2520ai%2F98716933-4f92-4958-ba17-97e194b1541e)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
@@ -241,14 +237,15 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
 * **[Software Engineer, Full-Stack](https://jobs.ashbyhq.com/rescale/7ad7c1e2-44ed-4b7b-ab5c-10395b7cd684)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
+* **[Principal Angular Developer](https://job-boards.greenhouse.io/regscale/jobs/4726043007)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
+* **[Principal Software Engineer - JVM Ecosystem](https://jobs.smartrecruiters.com/ServiceNow/744000069377706-principal-software-engineer-jvm-ecosystem?oga=true)** — _n/a_ _(posted 2025-07-08)_
 * **[Manager, Software Engineering Management - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069236118-manager-software-engineering-management-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
 * **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069236125-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069235296-senior-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000069234635-senior-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-08)_
-* **[Staff Software Engineer - Fullstack](https://jobs.smartrecruiters.com/ServiceNow/744000068567901-staff-software-engineer-fullstack?oga=true)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -299,4 +296,4 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_
