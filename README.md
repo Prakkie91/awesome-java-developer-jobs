@@ -12,6 +12,7 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
 
+* **[Staff Software Engineer - Portfolio Experience](https://job-boards.greenhouse.io/addepar1/jobs/8064889002)** — ¤150,000 – ¤234,000 USD _(posted 2025-07-18)_
 * **[Sr. Fullstack Software Engineer - Partner Platform](https://job-boards.greenhouse.io/addepar1/jobs/8064891002)** — _n/a_ _(posted 2025-07-12)_
 * **[Full-Stack Software Engineer-Product Engineer](https://job-boards.greenhouse.io/addepar1/jobs/8015737002)** — _n/a_ _(posted 2025-06-05)_
 * **[Sr. Software Engineer - Reference Data](https://job-boards.greenhouse.io/addepar1/jobs/7978809002)** — ¤126,000 – ¤197,000 USD _(posted 2025-05-02)_
@@ -77,6 +78,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Software Engineer - Internal Platform](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-27)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
+
+* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
 * **[Sr. Software Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Software-Engineer_JR7989-1)** — _n/a_ _(posted 2025-06-30)_
@@ -84,10 +89,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
 
 * **[Salesforce Developer](https://jobs.ashbyhq.com/chainlink-labs/8b70171c-b303-455f-95f6-8e125ff1b1be)** — _n/a_ _(posted 2025-07-08)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
-
-* **[Developer Relations Engineer](https://jobs.ashbyhq.com/clerk/5e899b61-1dcc-4c8e-83af-5e67d8ec1387)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
@@ -104,7 +105,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
 
 * **[Software Engineer - WarpStream](https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff)** — ¤230,800 – ¤271,200 USD _(posted 2025-07-12)_
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/confluent/29b6fe01-d4ad-47ce-94b3-ccad4bd01134)** — ¤160,100 – ¤188,100 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
@@ -134,12 +134,9 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Lead Software Engineer  - Omni Tools (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Lead-Software-Engineer----Omni-Tools--REMOTE-_202508443)** — _n/a_ _(posted 2025-07-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
-
-* **[Lead Software Engineer, AI](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Lead-Software-Engineer--AI-Engineering--Developer-Tools-_JR11972-1)** — _n/a_ _(posted 2025-07-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
+* **[Software Engineer II, Backend](https://job-boards.greenhouse.io/flex/jobs/4587454005)** — _n/a_ _(posted 2025-07-18)_
 * **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/flex/jobs/4584212005)** — _n/a_ _(posted 2025-07-09)_
 * **[Staff Software Engineer, Partner Integrations](https://job-boards.greenhouse.io/flex/jobs/4577838005)** — _n/a_ _(posted 2025-06-19)_
 * **[Staff Software Engineer, Risk Engineering](https://job-boards.greenhouse.io/flex/jobs/4576670005)** — _n/a_ _(posted 2025-06-18)_
@@ -315,11 +312,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
 
 * **[Sr. Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Sr-Developer_R-01323533)** — _n/a_ _(posted 2025-07-11)_
-* **[Staff Engineer, Software](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Staff-Engineer--Software_R-01316817-1)** — _n/a_ _(posted 2025-05-08)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o6ilnhybzosulwkqff2b.webp" width="24" height="24" alt="WatchGuard Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WatchGuard Technologies](https://jobo.world/company/WatchGuard-Technologies,-Inc.)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y3jvphat7o611nqzowe0.webp" width="24" height="24" alt="Thumbtack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thumbtack](https://jobo.world/company/Thumbtack)
 
-* **[Salesforce Developer](https://jobs.lever.co/watchguard/296d94ea-b7ca-4826-8c11-75d6ae9f2de2)** — _n/a_ _(posted 2025-05-23)_
+* **[Senior Software Engineer, Developer Experience](https://job-boards.greenhouse.io/thumbtack/jobs/7082064)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rmuhownmxnjzgpakcg3h.webp" width="24" height="24" alt="Webflow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Webflow](https://jobo.world/company/Webflow)
 
@@ -333,9 +329,13 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="World Kinect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[World Kinect](https://jobo.world/company/World-Kinect)
+
+* **[IT Tech Lead II](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-II_R21447-1)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rjsqqkoaiah93pvtgvwj.webp" width="24" height="24" alt="Zip logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zip](https://jobo.world/company/Zip-Co)
 
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
