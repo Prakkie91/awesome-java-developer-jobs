@@ -15,7 +15,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Staff Software Engineer - Portfolio Experience](https://job-boards.greenhouse.io/addepar1/jobs/8064889002)** — ¤150,000 – ¤234,000 USD _(posted 2025-07-18)_
 * **[Sr. Fullstack Software Engineer - Partner Platform](https://job-boards.greenhouse.io/addepar1/jobs/8064891002)** — _n/a_ _(posted 2025-07-12)_
 * **[Full-Stack Software Engineer-Product Engineer](https://job-boards.greenhouse.io/addepar1/jobs/8015737002)** — _n/a_ _(posted 2025-06-05)_
-* **[Sr. Software Engineer - Reference Data](https://job-boards.greenhouse.io/addepar1/jobs/7978809002)** — ¤126,000 – ¤197,000 USD _(posted 2025-05-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
 
@@ -141,10 +140,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Senior Software Engineer](https://jobs.lever.co/instructure/f24bf9bf-a20e-43c3-a015-0cf2a0a00264)** — _n/a_ _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
-
-* **[Lead Test Automation Engineer (SDET)](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Lead-Test-Automation-Engineer--SDET-_JR10)** — _n/a_ _(posted 2025-06-09)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
 * **[Senior Backend Engineer - Real-time data processing](https://jobs.ashbyhq.com/jerry/92ada1b7-77d6-42f3-aeb6-ec51b855660c)** — _n/a_ _(posted 2025-07-22)_
@@ -167,10 +162,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Software Engineer (PSL Developer)](https://job-boards.greenhouse.io/kunai/jobs/4713012007)** — _n/a_ _(posted 2025-04-22)_
 * **[Senior Software Engineer - EMV Chip Card](https://job-boards.greenhouse.io/kunai/jobs/4634386007)** — _n/a_ _(posted 2025-03-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
-
-* **[Backend Engineer, Monetization](https://job-boards.greenhouse.io/launchdarkly/jobs/6603165003)** — _n/a_ _(posted 2025-06-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
@@ -248,6 +239,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Principal Software Engineer, Ads Backend Engineering](https://job-boards.greenhouse.io/reddit/jobs/6253122)** — _n/a_ _(posted 2025-04-23)_
 * **[Senior Staff Software Engineer, Ads Formats](https://job-boards.greenhouse.io/reddit/jobs/5828920)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hng4mhtuiakibyz9iwua.webp" width="24" height="24" alt="Saviynt logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Saviynt](https://jobo.world/company/Saviynt)
+
+* **[Principal Software Engineer, Application Access Governance](https://jobs.lever.co/saviynt/6320f7ee-d6e0-48b8-ad73-abb2ab3f31df)** — _n/a_ _(posted 2025-07-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/inlci0wzrhiduro5qdsv.webp" width="24" height="24" alt="Scout Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Scout Motors](https://jobo.world/company/Scout-Motors)
 
 * **[Sr Software Engineer - Mobile (Android) - Digital Product](https://job-boards.greenhouse.io/scoutmotors/jobs/4708235007)** — _n/a_ _(posted 2025-04-18)_
@@ -294,6 +289,11 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Staff Backend Engineer (Java)](https://job-boards.greenhouse.io/trackvia/jobs/6648868003)** — _n/a_ _(posted 2025-07-25)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wqvitsgh4wt42fbbnaqo.webp" width="24" height="24" alt="Twin Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twin Health](https://jobo.world/company/Twin-Health)
+
+* **[Technical Lead, Backend Engineer](https://job-boards.greenhouse.io/twinhealth/jobs/5544067004)** — _n/a_ _(posted 2025-06-21)_
+* **[Senior Engineer, Billing Platform](https://job-boards.greenhouse.io/twinhealth/jobs/5541035004)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-15)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
 * **[Senior Software Engineer, Developer Experience ](https://jobs.ashbyhq.com/vanta/dbd4e02c-0c6c-4031-a658-f57e88ec9943)** — ¤179,000 – ¤244,000 USD _(posted 2025-04-19)_
@@ -317,4 +317,4 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
