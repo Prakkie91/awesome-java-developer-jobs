@@ -128,6 +128,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Staff Software Engineer, Risk Engineering](https://job-boards.greenhouse.io/flex/jobs/4576670005)** — _n/a_ _(posted 2025-06-18)_
 * **[Senior Software Engineer, Backend](https://job-boards.greenhouse.io/flex/jobs/4577351005)** — _n/a_ _(posted 2025-06-18)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
+
+* **[Staff Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Work-From-Home---United-States/Staff-Software-Engineer_JR-202511918-1)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Senior Software Engineer,  Backend (Financial Engines)](https://job-boards.greenhouse.io/humaninterest/jobs/6430613)** — _n/a_ _(posted 2025-04-15)_
@@ -260,10 +264,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Sezzle Talent Community - General Interest](https://job-boards.greenhouse.io/sezzle/jobs/4678126003)** — _n/a_ _(posted 2025-04-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wqpc0cyo5dblxievdyjt.webp" width="24" height="24" alt="sFOX logo" style="vertical-align:middle"/>&nbsp;&nbsp;[sFOX](https://jobo.world/company/sFOX)
-
-* **[Backend Software Engineer, Trading Infrastructure](https://job-boards.greenhouse.io/sfox/jobs/8073197002)** — _n/a_ _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
@@ -317,4 +317,4 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
