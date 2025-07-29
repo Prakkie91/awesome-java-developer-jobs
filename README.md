@@ -15,6 +15,7 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Staff Software Engineer - Portfolio Experience](https://job-boards.greenhouse.io/addepar1/jobs/8064889002)** — ¤150,000 – ¤234,000 USD _(posted 2025-07-18)_
 * **[Sr. Fullstack Software Engineer - Partner Platform](https://job-boards.greenhouse.io/addepar1/jobs/8064891002)** — _n/a_ _(posted 2025-07-12)_
 * **[Full-Stack Software Engineer-Product Engineer](https://job-boards.greenhouse.io/addepar1/jobs/8015737002)** — _n/a_ _(posted 2025-06-05)_
+* **[Sr. Software Engineer - Reference Data](https://job-boards.greenhouse.io/addepar1/jobs/7978809002)** — ¤126,000 – ¤197,000 USD _(posted 2025-05-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
 
@@ -234,10 +235,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Principal Engineer- Data Platform &amp; AI (USA)](https://jobs.lever.co/pointclickcare/4b60f007-6f59-4c6b-a2c8-83aabc283d6b)** — _n/a_ _(posted 2025-06-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
-
-* **[Developer Support Engineer ](https://jobs.ashbyhq.com/privy/ae753507-3c0f-40f5-9779-0d6035dee941)** — _n/a_ _(posted 2025-04-29)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mryrjezblnfpjtjmae2c.webp" width="24" height="24" alt="Reddit logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reddit](https://jobo.world/company/Reddit)
 
 * **[Principal Software Engineer, Ads Backend Engineering](https://job-boards.greenhouse.io/reddit/jobs/6253122)** — _n/a_ _(posted 2025-04-23)_
@@ -317,4 +314,4 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-28_
+_Updated automatically — 2025-07-29_
