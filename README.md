@@ -15,11 +15,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Staff Software Engineer - Portfolio Experience](https://job-boards.greenhouse.io/addepar1/jobs/8064889002)** — ¤150,000 – ¤234,000 USD _(posted 2025-07-18)_
 * **[Sr. Fullstack Software Engineer - Partner Platform](https://job-boards.greenhouse.io/addepar1/jobs/8064891002)** — _n/a_ _(posted 2025-07-12)_
 * **[Full-Stack Software Engineer-Product Engineer](https://job-boards.greenhouse.io/addepar1/jobs/8015737002)** — _n/a_ _(posted 2025-06-05)_
-* **[Sr. Software Engineer - Reference Data](https://job-boards.greenhouse.io/addepar1/jobs/7978809002)** — ¤126,000 – ¤197,000 USD _(posted 2025-05-02)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
-
-* **[Sr Developer Relations Engineer, Frame.io](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Sr-Developer-Relations-Engineer--Frameio_R156562)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmz3yffvx4vbmprmkam.webp" width="24" height="24" alt="Aerospike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aerospike](https://jobo.world/company/Aerospike)
 
@@ -44,10 +39,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ckyjhkdbpmvj9xoezwuu.webp" width="24" height="24" alt="Altera Digital Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera Digital Health](https://jobo.world/company/Altera-Digital-Health)
 
 * **[Production Engineer](https://jobs.lever.co/smiledigitalhealth/af8e0112-7b75-42ec-9c37-a3447704210e)** — _n/a_ _(posted 2025-06-20)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kcq8nfjtqwqarugh1srl.webp" width="24" height="24" alt="Angel Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angel Studios](https://jobo.world/company/Angel-Studios)
-
-* **[Senior Software Engineer (Roku Developer)](https://jobs.lever.co/angel/577a9b1a-489d-4ea9-b844-01839b3225ba)** — _n/a_ _(posted 2025-06-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu9fyf0r2tvc7iwdcmdy.webp" width="24" height="24" alt="Arcadia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arcadia](https://jobo.world/company/Arcadia-io)
 
@@ -117,6 +108,7 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
+* **[Android Software Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000073090155-android-software-engineer-remote-)** — _n/a_ _(posted 2025-07-28)_
 * **[Senior Software Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000072281230-senior-software-engineer-remote-)** — _n/a_ _(posted 2025-07-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
@@ -147,6 +139,8 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
+* **[Senior Backend Engineer - Real-time data processing](https://jobs.ashbyhq.com/jerry/1367d165-8d5f-43ed-b0a3-91c7652eb972)** — _n/a_ _(posted 2025-07-29)_
+* **[Senior Backend Engineer - Real-time IoT](https://jobs.ashbyhq.com/jerry/0eba71de-c2cb-4ed5-9d31-1dda1ed19ad2)** — _n/a_ _(posted 2025-07-29)_
 * **[Senior Backend Engineer - Real-time data processing](https://jobs.ashbyhq.com/jerry/92ada1b7-77d6-42f3-aeb6-ec51b855660c)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/4f82b41e-63c1-415a-9d1a-64d5f9391cbe)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Backend Engineer - Real-time IoT](https://jobs.ashbyhq.com/jerry/622826e4-3050-4208-8566-6dc3edef3b26)** — _n/a_ _(posted 2025-07-19)_
@@ -240,6 +234,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Principal Software Engineer, Ads Backend Engineering](https://job-boards.greenhouse.io/reddit/jobs/6253122)** — _n/a_ _(posted 2025-04-23)_
 * **[Senior Staff Software Engineer, Ads Formats](https://job-boards.greenhouse.io/reddit/jobs/5828920)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qn9ebs0zasbueskvj2k6.webp" width="24" height="24" alt="Render logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Render](https://jobo.world/company/Render)
+
+* **[Developer Relations Engineer](https://jobs.ashbyhq.com/render/e953961c-08b8-4ba7-947e-d19bc455a537)** — _n/a_ _(posted 2025-07-29)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hng4mhtuiakibyz9iwua.webp" width="24" height="24" alt="Saviynt logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Saviynt](https://jobo.world/company/Saviynt)
 
 * **[Principal Software Engineer, Application Access Governance](https://jobs.lever.co/saviynt/6320f7ee-d6e0-48b8-ad73-abb2ab3f31df)** — _n/a_ _(posted 2025-07-26)_
@@ -261,6 +259,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Sezzle Talent Community - General Interest](https://job-boards.greenhouse.io/sezzle/jobs/4678126003)** — _n/a_ _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wqpc0cyo5dblxievdyjt.webp" width="24" height="24" alt="sFOX logo" style="vertical-align:middle"/>&nbsp;&nbsp;[sFOX](https://jobo.world/company/sFOX)
+
+* **[Backend Software Engineer, Trading Infrastructure](https://job-boards.greenhouse.io/sfox/jobs/8073197002)** — _n/a_ _(posted 2025-07-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
@@ -273,10 +275,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
 
 * **[Software Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8061251002)** — _n/a_ _(posted 2025-07-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpumpsvqofsqkar6on3z.webp" width="24" height="24" alt="Smartsheet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smartsheet](https://jobo.world/company/Smartsheet)
-
-* **[Senior Software Engineer II (Remote Eligible)](https://job-boards.greenhouse.io/smartsheet/jobs/7056977)** — _n/a_ _(posted 2025-07-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y3jvphat7o611nqzowe0.webp" width="24" height="24" alt="Thumbtack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thumbtack](https://jobo.world/company/Thumbtack)
 
@@ -293,7 +291,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
-* **[Senior Software Engineer, Developer Experience ](https://jobs.ashbyhq.com/vanta/dbd4e02c-0c6c-4031-a658-f57e88ec9943)** — ¤179,000 – ¤244,000 USD _(posted 2025-04-19)_
 * **[Backend Senior Software Engineer, Monetization Platform](https://jobs.ashbyhq.com/vanta/c06afed6-3117-4031-bdf7-997f191065e0)** — ¤211,000 – ¤244,000 USD _(posted 2025-03-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/epuo7wxgp7crcehnqvcm.webp" width="24" height="24" alt="Voya Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Voya Financial](https://jobo.world/company/VoyaFinancial)
@@ -314,4 +311,4 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-29_
+_Updated automatically — 2025-07-30_
