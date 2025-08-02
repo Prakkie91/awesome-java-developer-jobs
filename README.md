@@ -21,6 +21,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Staff Software Engineer, Client](https://job-boards.greenhouse.io/aerospike/jobs/8017343002)** — _n/a_ _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
+
+* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tuwtrdzblludpzeyje1f.webp" width="24" height="24" alt="Alchemy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alchemy](https://jobo.world/company/Alchemy)
 
 * **[Principal Software Engineer](https://job-boards.greenhouse.io/alchemy/jobs/4326841005)** — _n/a_ _(posted 2025-05-09)_
@@ -102,6 +106,7 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
+* **[Senior Staff Software Engineer - Java (Remote)](https://jobs.smartrecruiters.com/Experian/744000073865624-senior-staff-software-engineer-java-remote-)** — _n/a_ _(posted 2025-07-31)_
 * **[Staff Software Development Engineer](https://jobs.smartrecruiters.com/Experian/744000073389115-staff-software-development-engineer)** — _n/a_ _(posted 2025-07-29)_
 * **[Android Software Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000073090155-android-software-engineer-remote-)** — _n/a_ _(posted 2025-07-28)_
 * **[Senior Software Engineer (Remote)](https://jobs.smartrecruiters.com/Experian/744000072281230-senior-software-engineer-remote-)** — _n/a_ _(posted 2025-07-23)_
@@ -115,6 +120,10 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/flex/jobs/4584212005)** — _n/a_ _(posted 2025-07-09)_
 * **[Senior Software Engineer, Backend](https://job-boards.greenhouse.io/flex/jobs/4577351005)** — _n/a_ _(posted 2025-06-18)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ttt7yt8jgmemfkliscye.webp" width="24" height="24" alt="Forward Networks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forward Networks](https://jobo.world/company/Forward-Networks)
+
+* **[Senior Software Engineer, Java - Productivity](https://job-boards.greenhouse.io/forwardnetworks/jobs/6667565003)** — _n/a_ _(posted 2025-08-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
 
 * **[Staff Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Software-Engineer_JR-202512007-1)** — _n/a_ _(posted 2025-07-30)_
@@ -123,10 +132,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
 * **[Sr Full Stack Software Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Sr-Full-Stack-Software-Engineer_R-379942)** — _n/a_ _(posted 2025-07-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/udvkngnqwhoeznycsnjd.webp" width="24" height="24" alt="Inspire11 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Inspire11](https://jobo.world/company/Inspire11)
-
-* **[Inspire11 Talent Network](https://job-boards.greenhouse.io/inspire11/jobs/8033867002)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bm8f52qu8tuibfpv31kn.webp" width="24" height="24" alt="Instructure logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instructure](https://jobo.world/company/Instructure)
 
@@ -270,10 +275,6 @@ Browse a wide range of remote Java Developer positions available globally. New j
 
 * **[Senior Software Engineer, Platform Engineering](https://job-boards.greenhouse.io/smartasset/jobs/8085126002)** — _n/a_ _(posted 2025-07-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y3jvphat7o611nqzowe0.webp" width="24" height="24" alt="Thumbtack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thumbtack](https://jobo.world/company/Thumbtack)
-
-* **[Senior Software Engineer, Developer Experience](https://job-boards.greenhouse.io/thumbtack/jobs/7082064)** — _n/a_ _(posted 2025-07-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/negbxiojfl2pcdqbayir.webp" width="24" height="24" alt="TrackVia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrackVia](https://jobo.world/company/TrackVia)
 
 * **[Staff Backend Engineer (Java)](https://job-boards.greenhouse.io/trackvia/jobs/6648868003)** — _n/a_ _(posted 2025-07-25)_
@@ -300,9 +301,5 @@ Browse a wide range of remote Java Developer positions available globally. New j
 * **[Backend Technical Lead - Customer Experience](https://jobs.ashbyhq.com/wordly.ai%20careers/56a09a38-902c-4694-b00a-7c5394ae9088)** — _n/a_ _(posted 2025-07-23)_
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rjsqqkoaiah93pvtgvwj.webp" width="24" height="24" alt="Zip logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zip](https://jobo.world/company/Zip-Co)
-
-* **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
-
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
